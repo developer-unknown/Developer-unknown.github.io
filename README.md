@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+## HTML Tutorial
 
-You can use the [editor on GitHub](https://github.com/Developer-unknown/Developer-unknown.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the HTML programming tutorial.
+After this article, you will be a pro at HTML. So let's start!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### First of all, what is HTML?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well, HTML is a language that is used to build webpages.
+With HTML, you can create interactive buttons, different fonts of text, and you can style webpages with a secondary language called CSS.
+It is a very easy langauge to learn.
+
+### Writing HTML
+
+Here, we'll show you some HTML commands that you can
+try:
 
 ```markdown
-Syntax highlighted code block
+Create a new text file and put the following code in
+it, the, save it as an HTML file then open it with your browser.
 
-# Header 1
-## Header 2
-### Header 3
+<h1>Click the button</h1>
+<br>
+<button>Click Me</button>
+```
+You probably got big text that says "Click the button"
+and an actual button. However, the button doesn't do anything.
+Let's make it interactive.
 
-- Bulleted
-- List
+```markdown
+<h1>Click the button</h1>
+<br>
+<button onclick="alert ('Your have clicked the button')">Click Me</button>
+```
+### Guess the code!
 
-1. Numbered
-2. List
+Here, you will guess what the HTML code does. NO CHEATING!
+Here we go:
 
-**Bold** and _Italic_ and `Code` text
+```markdown
+Guess what it does (Your not expected to know this as a beginner)
 
-[Link](url) and ![Image](src)
+<h2>Complete the given task below</h2>
+<br>
+<br>
+<p>Task: Click the button</p>
+<button onclick="alert ('Great job completing the task')">CLICK ME</button>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Did you get it?
 
-### Jekyll Themes
+What the code did was display the text "Complete the given task below"
+and displayed a paragraph at the botton (using the <p> command) that said "Task: Click the button".
+Then, when you clicked the button that showed "Click me", it would alert you and say "Great job completing the task".
+  
+### List of HTML commands and what they mean
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Developer-unknown/Developer-unknown.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+<h1></h1> | Displays big text like a title
+<title></title> | Displays a title for the current tab
+<p></p> | Displays a paragraph
+<br> | Places a line break
+<button></button> | Displays a button
+alert ('') | Alerts you with a message
+```
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+###
