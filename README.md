@@ -1,9 +1,7 @@
 ## HTML Tutorial
 
 Welcome to the HTML programming tutorial.
-After this article, you will be a pro at HTML. So let's start!
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After this article, you will be a pro at HTML. So let's start.
 
 ### First of all, what is HTML?
 
