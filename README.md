@@ -67,4 +67,9 @@ alert ('') | Alerts you with a message
 
 
 
-###
+### Thank you!
+
+
+I hope you got what you needed from our article
+
+Be sure to follow us on GitHub here: https://github.com/Developer-unknown
